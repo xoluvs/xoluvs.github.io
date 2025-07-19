@@ -6,3 +6,9 @@ Hello! My name Is Kimberly Gilbraith.
 I’m a Senior Instructor Designer and Program Manager with over 20 years of training experience across multiple areas of expertise.  
 
 Thank you for taking the time to get to know me. 
+
+
+
+
+
+Some icons and images in these pages were made using Storyset. Visit <a href="https://storyset.com/"> Storyset.com</a> to learn more. 
