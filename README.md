@@ -25,7 +25,7 @@
 
 <h3 align="left">My name Is Kimberly Gilbraith.  I’m a Senior Instructor Designer and Program Manager with over 20 years of training experience across multiple areas of expertise.  Feel Free to look around and explore.</h3>
 
-![Enter my site.](assets/images/entryDoor.png)(home)
+[![Enter my site.](assets/images/entryDoor.png)](home)
 
 
 <br clear="both">
