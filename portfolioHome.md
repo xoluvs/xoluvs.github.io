@@ -17,3 +17,7 @@ My project examples are coming soon. Be sure to check back soon or contact me to
 
 
 https://xoluvs.github.io/D9-Simulations/
+
+<h3 align="left"> Notes:</h3>
+
+Some of the graphics and icons used to build this site can be found on <a href="https://storyset.com/work"> Storyset.com </a>.
