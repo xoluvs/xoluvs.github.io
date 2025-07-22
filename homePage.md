@@ -2,13 +2,16 @@
 
 
 <div align="right">
-  <a href = "https://xoluvs.github.io/aboutMe"> About Me </a>
- 
-  <a href = "https://xoluvs.github.io/portfolioHome">  Portfolio Home</a>
-  
-  <a href = "https://xoluvs.github.io/contactMe">Contact Me</a>
-  
-</div>
+    <a href = "https://xoluvs.github.io/aboutMe">About Me</a>
+  </div>
+
+ <div align="right">
+     <a href = "https://xoluvs.github.io/portfolioHome">Portfolio Home</a>
+   </div>
+
+ <div align="right">
+    <a href = "https://xoluvs.github.io/contactMe">Contact Me</a>
+  </div>
 
 
 
