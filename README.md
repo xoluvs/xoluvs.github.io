@@ -1,10 +1,14 @@
 <h1 align="center">Hello and welcome to my home. 👋</h1>
 
-![Enter](assets/images/openingPic.jpg)
+<div align="center">
+<img src="assets/images/openingPic.jpg" alt="My avatar in an office setting" width="700" height="700" align="center">
 
+  
+</div>
 
 
 <div align="center">
+  <br> 
   <a href = "https://www.linkedin.com/in/kimberly-gilbraith"> 
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  /></a>
   <a href = "https://www.facebook.com/kimberly.gilbraith"> 
@@ -42,17 +46,15 @@
 </div>
 
 
-<br clear="both">
-
-<p align="left"></p>
 
 
 
-<h3 align="left">🛠 Language and tools</h3>
+
+<h3 align="center"><br>🛠 Language and tools</h3>
 
 
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" height="40" alt="facebook logo"  />
@@ -80,7 +82,7 @@
 
 
 
-<h3 align="left">🔥   My Stats :</h3>
+<h3 align="center"><br>🔥   My Stats :</h3>
 
 
 
@@ -90,12 +92,11 @@
 
 
 
-<div align="left">
+
+
+
+<h4 align="center"> Notes:</h4>
+
+<div align="center">
+ Some of the graphics and icons used to build this site can be found on <a href="https://storyset.com/work"> Storyset.com </a>.
 </div>
-
-
-
-<p align="left"></p>
-<h4 align="left"> Notes:</h4>
-
-Some of the graphics and icons used to build this site can be found on <a href="https://storyset.com/work"> Storyset.com </a>.
