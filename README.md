@@ -1,4 +1,4 @@
-
+<h1 align="center">Hello and welcome to my home. 👋</h1>
 
 ![Enter](assets/images/openingPic.jpg)
 
@@ -24,7 +24,7 @@
 
 
 
-<h1 align="center">Hello and welcome to my home. 👋</h1>
+
 
 
 
