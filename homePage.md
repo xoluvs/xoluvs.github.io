@@ -32,30 +32,24 @@ Thank you for your time and consideration.
 <div align="left">
  <a href = "https://xoluvs.github.io/aboutMe">  
   <img src="assets/images/profile.png" alt="About Me" width="100" height="100" align="center"> </a> 
-   Select here to who I am. You can learn more about me personally, my volunteer activities, passions, and more. 
+  Learn more about who I am; Learn more about me personally, my volunteer activities, passions, and more. 
 </div>
 
 <div align="left">
- <a href = "https://xoluvs.github.io/portfoliaHome">  
-  <img src="assets/images/office.png" alt="Enter my site." width="100" height="100" align="center"> </a> 
+ <a href = "https://xoluvs.github.io/portfolioHome">  
+  <img src="assets/images/office.png" alt="Work examples" width="100" height="100" align="center"> </a> 
     Select here to view work examples, including analysis documentation, storyboards, project examples and refults.  
 </div>
 
 <div align="left">
- <a href = "https://xoluvs.github.io/aboutMe">  
- <img src="assets/images/entryDoor.png" alt="Enter my site." width="100" height="100" align="center"> </a> 
-  Enter this room to learn more about my work, volunteer activities, and passions.  
-</div>
-
-<div align="left">
-  <a href = "https://xoluvs.github.io/aboutMe">  
-   <img src="assets/images/entryDoor.png" alt="Enter my site." width="100" height="100" align="center"> </a> 
-    Enter this room to learn more about my work, volunteer activities, and passions.  
+ <a href = "https://xoluvs.github.io/contactMe">  
+ <img src="assets/images/contactMe.png" alt="Contact Me" width="100" height="100" align="center"> </a> 
+  Contact me to request more information or to share feedback.  
 </div>
 
 
 
-<h3 align="left"> Language and tools</h3>
+<h3 align="left"> Notes:</h3>
 
 
 
