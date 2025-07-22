@@ -1,14 +1,14 @@
-<h1 align="center">Hello and welcome to my home. 👋</h1>
+<b> Please pardon my mess. This site is in the early stage of construction!</b>
 
-![Enter](assets/images/openingPic.jpg)
-
-
+![Enter](assets/images/openingPic.jpg) 
 
 
 
 
 
-Welcome to my portfolio.
+
+
+<h1>Welcome!</h1>
 
 As an Instructional Designer I have a passion in creating new and engaging solutions to training needs. From a quick 2–5-minute job aid, through a fully functional simulation, I find it exciting to measure the results of my work and see the impact I am making.
 
@@ -33,6 +33,9 @@ I appreciate the time you’re taking to look at my portfolio.
 <h3 align="left">🛠 Language and tools</h3>
 
 
+
+
+Some of the graphics and icons used to build this site can be found on <a href="https://storyset.com/work"> Storyset.com </a>.
 
 
 
