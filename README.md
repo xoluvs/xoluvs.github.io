@@ -30,9 +30,9 @@
 
 <h3 align="left">My name Is Kimberly Gilbraith.  I’m a Senior Instructor Designer and Program Manager with over 20 years of training experience across multiple areas of expertise.  Feel Free to look around and explore.</h3>
 
-<img src="assets/images/entryDoor.png" alt="Enter my site." width="20" height="20">
+<a href = "home">  
+<img src="assets/images/entryDoor.png" alt="Enter my site." width="200" height="200"> </a> Enter here to view my work and learn more about who I am and the work I do. 
 
-[![Enter my site.](assets/images/entryDoor.png width="300" height="200")](home)
 
 
 <br clear="both">
