@@ -45,6 +45,20 @@ The best way to contact me is through one of my social media accounts or by emai
 </div>
 
 
-<h3 align="left"> Notes:</h3>
+
+<div align="center">
+<a href = "https://xoluvs.github.io/homePage">  
+<img src="assets/images/entryDoor.png" alt="Enter my site." width="200" height="200" align="center"> </a> 
+  Enter here to view my work and learn more about who I am and the work I do. 
+</div>
+
+
+
+
+<h3 align="left">🛠 Language and tools</h3>
+
+
+
+<h4 align="left"> Notes:</h4>
 
 Some of the graphics and icons used to build this site can be found on <a href="https://storyset.com/work"> Storyset.com </a>.
