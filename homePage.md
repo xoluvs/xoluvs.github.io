@@ -1,8 +1,8 @@
-<h1 align="center"> Please pardon my mess. This site is in the early stage of construction!</h1>
+<h1 align="center"> Please pardon my mess. This site is in the early stages of construction!</h1>
 
 <div align="center">
  
-<img src="assets/images/openingPic.jpg" alt="Office Picture" width="200" height="200" align="center"  /> 
+<img src="assets/images/profile.png" alt="Office Picture" width="300" height="300" align="center"  /> 
 </div>
 
 
@@ -21,35 +21,41 @@ My background includes experience working with emergency response agencies, cust
 
 To learn more about who I am, visit the <b>About Me </b> section of my home. 
 
-I appreciate the time you’re taking to look at my portfolio. 
+I hope you will take some time to look around at by work. Select from the following pages to learn more.
 
-<div align="center">
+Thank you for your time and consideration. 
+
+
+
+<h2 align="left"> Personal Information and Projects Links </h2>
+
+<div align="left">
  <a href = "https://xoluvs.github.io/aboutMe">  
   <img src="assets/images/entryDoor.png" alt="Enter my site." width="100" height="100" align="center"> </a> 
    Enter this room to learn more about my work, volunteer activities, and passions.  
 </div>
 
-<div align="center">
+<div align="left">
  <a href = "https://xoluvs.github.io/aboutMe">  
-  <img src="assets/images/entryDoor.png" alt="Enter my site." width="200" height="200" align="center"> </a> 
+  <img src="assets/images/entryDoor.png" alt="Enter my site." width="100" height="100" align="center"> </a> 
     Enter this room to learn more about my work, volunteer activities, and passions.  
 </div>
 
-<div align="center">
+<div align="left">
  <a href = "https://xoluvs.github.io/aboutMe">  
- <img src="assets/images/entryDoor.png" alt="Enter my site." width="200" height="200" align="center"> </a> 
+ <img src="assets/images/entryDoor.png" alt="Enter my site." width="100" height="100" align="center"> </a> 
   Enter this room to learn more about my work, volunteer activities, and passions.  
 </div>
 
-<div align="center">
+<div align="left">
   <a href = "https://xoluvs.github.io/aboutMe">  
-   <img src="assets/images/entryDoor.png" alt="Enter my site." width="200" height="200" align="center"> </a> 
+   <img src="assets/images/entryDoor.png" alt="Enter my site." width="100" height="100" align="center"> </a> 
     Enter this room to learn more about my work, volunteer activities, and passions.  
 </div>
 
 
 
-<h3 align="left">🛠 Language and tools</h3>
+<h3 align="left"> Language and tools</h3>
 
 
 
