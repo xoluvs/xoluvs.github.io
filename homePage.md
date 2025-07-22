@@ -1,13 +1,23 @@
 <h1 align="center"> Please pardon my mess. This site is in the early stages of construction!</h1>
 
-<div align="center">
+
+<div align="right">
+  <a href = "https://xoluvs.github.io/aboutMe"> About Me </a>
  
-<img src="assets/images/profile.png" alt="Office Picture" width="300" height="300" align="center"  /> 
+  <a href = "https://xoluvs.github.io/portfolioHome">  Portfolio Home</a>
+  
+  <a href = "https://xoluvs.github.io/contactMe">Contact Me</a>
+  
 </div>
 
 
 
 
+
+
+<div align="center">
+ <img src="assets/images/profile.png" alt="Office Picture" width="300" height="300" align="center"  /> 
+</div>
 
 
 
