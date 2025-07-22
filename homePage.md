@@ -20,12 +20,27 @@ To learn more about who I am, visit the <b>About Me </b> section of my home.
 
 I appreciate the time you’re taking to look at my portfolio. 
 
+<img width="2000" height="2000" alt="Task-bro" src="https://github.com/user-attachments/assets/dd126204-8660-435e-8669-e2b067a25038" />
 
 <div align="center">
 <a href = "https://xoluvs.github.io/aboutMe">  
 <img src="assets/images/entryDoor.png" alt="Enter my site." width="200" height="200" align="center"> </a> 
  Enter this room to learn more about my work, volunteer activities, and passions.  
-  
+
+
+<a href = "https://xoluvs.github.io/aboutMe">  
+<img src="assets/images/entryDoor.png" alt="Enter my site." width="200" height="200" align="center"> </a> 
+ Enter this room to learn more about my work, volunteer activities, and passions.  
+
+
+<a href = "https://xoluvs.github.io/aboutMe">  
+<img src="assets/images/entryDoor.png" alt="Enter my site." width="200" height="200" align="center"> </a> 
+ Enter this room to learn more about my work, volunteer activities, and passions.  
+
+
+  <a href = "https://xoluvs.github.io/aboutMe">  
+<img src="assets/images/entryDoor.png" alt="Enter my site." width="200" height="200" align="center"> </a> 
+ Enter this room to learn more about my work, volunteer activities, and passions.  
 </div>
 
 
