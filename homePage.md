@@ -31,14 +31,14 @@ Thank you for your time and consideration.
 
 <div align="left">
  <a href = "https://xoluvs.github.io/aboutMe">  
-  <img src="assets/images/entryDoor.png" alt="Enter my site." width="100" height="100" align="center"> </a> 
-   Enter this room to learn more about my work, volunteer activities, and passions.  
+  <img src="assets/images/profile.png" alt="About Me" width="100" height="100" align="center"> </a> 
+   Select here to who I am. You can learn more about me personally, my volunteer activities, passions, and more. 
 </div>
 
 <div align="left">
- <a href = "https://xoluvs.github.io/aboutMe">  
-  <img src="assets/images/entryDoor.png" alt="Enter my site." width="100" height="100" align="center"> </a> 
-    Enter this room to learn more about my work, volunteer activities, and passions.  
+ <a href = "https://xoluvs.github.io/portfoliaHome">  
+  <img src="assets/images/office.png" alt="Enter my site." width="100" height="100" align="center"> </a> 
+    Select here to view work examples, including analysis documentation, storyboards, project examples and refults.  
 </div>
 
 <div align="left">
