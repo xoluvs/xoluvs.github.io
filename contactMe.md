@@ -26,22 +26,22 @@ The best way to contact me is through one of my social media accounts or by emai
 
 <div align="left">
    <a href = "https://www.linkedin.com/in/kimberly-gilbraith"> 
-       <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="100" alt="linkedin"  /></a>
+       <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="50" alt="linkedin"  /></a>
 </div>
 
 <div align="left">
     <a href = "https://www.facebook.com/kimberly.gilbraith"> 
-       <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="100" alt="facebook"  /></a>
+       <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="50" alt="facebook"  /></a>
 </div>
 
 <div align="left">
     <a href = "https://www.instagram.com/kimberlygilbraith/"> 
-        <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="100" alt="instagram logo"  /></a>
+        <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="50" alt="instagram logo"  /></a>
 </div>
 
 <div align="left">
     <a href = "mailto:ladygilbraith@gmail.com">     
-        <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="100" alt="gmail logo"  /></a>
+        <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="50" alt="gmail logo"  /></a>
 </div>
 
 
