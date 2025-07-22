@@ -1,7 +1,7 @@
 <h1 align="center">Hello and welcome to my home. 👋</h1>
 
 <div align="center">
-<img src="assets/images/openingPic.jpg" alt="My avatar in an office setting" width="700" height="700" align="center">
+<img src="assets/images/openingPic.jpg" alt="My avatar in an office setting" width="700" height="500" align="center">
 
   
 </div>
