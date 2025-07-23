@@ -14,6 +14,9 @@ My project examples are coming soon. Be sure to check back soon or contact me to
     <a href = "https://xoluvs.github.io/contactMe">Contact Me</a>
   </div>
 
+<div align="left">
+     <img src="assets/images/office.png" alt="Contact Me" width="300" height="300" align="center"  /> 
+    </div>
 
 
 https://xoluvs.github.io/D9-Simulations/
