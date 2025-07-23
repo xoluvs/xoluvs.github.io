@@ -23,20 +23,31 @@ My project examples are coming soon. Be sure to check back soon or contact me to
     </div>
 
 
-<h2> Design Examples</h2>
+<h2> Training Examples</h2>
 
+<div align="left">
+ <a href = "https://xoluvs.github.io/D9-Simulations">  
+ <img src="assets/images/softwareDesign.png" alt="Simulation Examples" width="100" height="100" align="center"> </a> 
+  D9 Simulators are simplified replicas of a device or platform. These can be useful for technical training. <br> 
+</div>
+
+<br>
+
+<h4>Coming Soon </h4>
 <div align="left">
  <a href = "https://xoluvs.github.io/analysis">  
  <img src="assets/images/data.png" alt="ADDIE process examples" width="100" height="100" align="center"> </a> 
   Using a proper design model is critical throughout training design and developement. View some of my examples here.    
 </div>
 
+<div align="left">
+  <img src="assets/images/justForFun.png" alt="Just for fun proijects" width="100" height="100" align="center">  
+  View a few examples highlighting gamification elements that can be used with any training.    
+</div>
 
 
+<br>
 
-
-https://xoluvs.github.io/D9-Simulations/
-
-<h3 align="left"> Notes:</h3>
+<h4 align="left"> Notes:</h4>
 
 Some of the graphics and icons used to build this site can be found on <a href="https://storyset.com/work"> Storyset.com </a>.
