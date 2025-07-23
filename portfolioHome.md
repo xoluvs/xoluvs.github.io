@@ -19,6 +19,14 @@ My project examples are coming soon. Be sure to check back soon or contact me to
     </div>
 
 
+<h2> Design Examples</h2>
+
+
+
+
+
+
+
 https://xoluvs.github.io/D9-Simulations/
 
 <h3 align="left"> Notes:</h3>
