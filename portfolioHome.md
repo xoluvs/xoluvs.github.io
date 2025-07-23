@@ -21,7 +21,11 @@ My project examples are coming soon. Be sure to check back soon or contact me to
 
 <h2> Design Examples</h2>
 
-
+<div align="left">
+ <a href = "https://xoluvs.github.io/](https://xoluvs.github.io/D9-Simulations/">  
+ <img src="assets/images/contactMe.png" alt="Contact Me" width="100" height="100" align="center"> </a> 
+  Contact me to request more information or to share feedback.  
+</div>
 
 
 
