@@ -3,7 +3,7 @@
 My About Me page is coming soon. Be sure to check back soon or contact me to get a sneak peak. 
 
 <div align="right">
-    <a href = "https://xoluvs.github.io">Home</a>
+    <a href = "https://xoluvs.github.io/homePage">Home</a>
   </div>
   
 <div align="right">
