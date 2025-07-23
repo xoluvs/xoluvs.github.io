@@ -23,8 +23,8 @@ My project examples are coming soon. Be sure to check back soon or contact me to
 
 <div align="left">
  <a href = "https://xoluvs.github.io/analysis">  
- <img src="assets/images/data.png" alt="analysis examples" width="100" height="100" align="center"> </a> 
-  A proper analysis is important for any project. View some of my examples here.    
+ <img src="assets/images/data.png" alt="ADDIE process examples" width="100" height="100" align="center"> </a> 
+  Using a proper design model is critical throughout training design and developement. View some of my examples here.    
 </div>
 
 
