@@ -1,4 +1,8 @@
 <div align="right">
+    <a href = "https://xoluvs.github.io/homePage">Home</a>
+  </div>
+
+<div align="right">
     <a href = "https://xoluvs.github.io/aboutMe">About Me</a>
   </div>
  <div align="right">
