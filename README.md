@@ -3,7 +3,6 @@
 <div align="center">
 <img src="assets/images/openingPic.jpg" alt="My avatar in an office setting" width="750" height="400" align="center">
 
-  
 </div>
 
 
@@ -33,7 +32,9 @@
 
 
 
-<h3 align="center">My name Is Kimberly Gilbraith.  I’m a Senior Instructor Designer and Program Manager with over 20 years of training experience across multiple areas of expertise.  Feel Free to look around and explore.</h3>
+<div align="center"><br>My name Is Kimberly Gilbraith. <br>
+  I’m a Senior Instructor Designer and Program Manager with over 20 years of training experience across multiple areas of expertise.  <br>
+  Feel Free to look around and explore.</div>
 
 
 
@@ -42,7 +43,7 @@
 <div align="center">
 <a href = "https://xoluvs.github.io/homePage">  
 <img src="assets/images/entryDoor.png" alt="Enter my site." width="200" height="200" align="center"> </a> 
-  Enter here to view my work and learn more about who I am and the work I do. 
+  Enter here to learn more about who I am and the work I do. <br>
 </div>
 
 
