@@ -28,6 +28,15 @@
   D9 Simulators are simplified replicas of a device or platform. These can be useful for technical training. <br> 
 </div>
 
+<div align="left">
+ <a href = "https://xoluvs.github.io/KVRYPackwood">  
+ <img src="assets/images/softwareDesign.png" alt="Simulation Examples" width="100" height="100" align="center"> </a> 
+  KVRY Packwood - Launching remote desktop demo <br> 
+</div>
+
+
+
+
 <br>
 
 <h4>Coming Soon </h4>
