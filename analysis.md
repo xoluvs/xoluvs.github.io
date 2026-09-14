@@ -21,27 +21,27 @@ As of September 2026, I am continuing my learning at Southern New Hampshire Univ
 
 
 <div align="left">
-<p><a href = "https://xoluvs.github.io/Project presentation example-250">  
+<p><a href = "https://xoluvs.github.io/Project%20presentation%20example-250.pdf">  
     Project Presentation Example 1
     </a>  </p>
     
- <p><a href = "https://xoluvs.github.io/Client Presentation example-255">  
+ <p><a href = "https://xoluvs.github.io/Client%20Presentation%20example-255.pdf">  
     Project Presentation Example 2     
  </a>  </p>
    
- <p><a href = "https://xoluvs.github.io/Project software design example 230">  
+ <p><a href = "https://xoluvs.github.io/Project%20software%20design%20example%20230.htm">  
     Software Design Example 1
  </a>  </p>
 
-<p><a href = "https://xoluvs.github.io/System Design Document Example-225">  
+<p><a href = "https://xoluvs.github.io/System%20Design%20Document%20Example-225.htm">  
     Software Design Example 2
  </a>  </p>
 
-<p><a href = "https://xoluvs.github.io/Sprint retrospective example-250">  
+<p><a href = "https://xoluvs.github.io/Sprint%20retrospective%20example-250.htm">  
     Sprint Retrospective Example 1
  </a>  </p>
  
-<p><a href = "https://xoluvs.github.io/UML diagram examples 255">  
+<p><a href = "https://xoluvs.github.io/UML%20diagram%20examples%20255.pdf">  
     UML Diagram Example
  </a> </p>
 
