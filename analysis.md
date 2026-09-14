@@ -1,6 +1,6 @@
-<h1>Under Construction!</h1>
+<h1>Examples</h1>
 
-This page is coming soon. It will host examples documents outlining the ADDIE model for Instructional Design. Be sure to check back soon or contact me to get a sneak peak. 
+As of September 2026, I am continuing my learning at Southern New Hampshire University where I am working on a degree in Computer Science. I currently attend part time and maintain a 4.0 GPA.  These are some of the examples from coursework that I have completed. These represent work done in different classes and show examples of different design documents. Some of this is universal regardless if you are working on a training project or software development.  
 
 <div align="right">
     <a href = "https://xoluvs.github.io/homePage">Home</a>
@@ -19,10 +19,34 @@ This page is coming soon. It will host examples documents outlining the ADDIE mo
     <a href = "https://xoluvs.github.io/contactMe">Contact Me</a>
   </div>
 
-  <div align="center">
-     <img src="assets/images/contactMe.png" alt="Contact Me" width="300" height="300" align="center"  /> 
-    </div>
 
+<div align="left">
+<p><a href = "https://xoluvs.github.io/Project presentation example-250">  
+    Project Presentation Example 1
+    </a>  </p>
+    
+ <p><a href = "https://xoluvs.github.io/Client Presentation example-255">  
+    Project Presentation Example 2     
+ </a>  </p>
+   
+ <p><a href = "https://xoluvs.github.io/Project software design example 230">  
+    Software Design Example 1
+ </a>  </p>
+
+<p><a href = "https://xoluvs.github.io/System Design Document Example-225">  
+    Software Design Example 2
+ </a>  </p>
+
+<p><a href = "https://xoluvs.github.io/Sprint retrospective example-250">  
+    Sprint Retrospective Example 1
+ </a>  </p>
+ 
+<p><a href = "https://xoluvs.github.io/UML diagram examples 255">  
+    UML Diagram Example
+ </a> </p>
+
+  
+</div>
 
 
 <h2>Contact Options</h2>
@@ -51,11 +75,7 @@ The best way to contact me is through one of my social media accounts or by emai
 
 
 
-<div align="center">
-<a href = "https://xoluvs.github.io/homePage">  
-<img src="assets/images/entryDoor.png" alt="Enter my site." width="200" height="200" align="center"> </a> 
-  Enter here to view my work and learn more about who I am and the work I do. 
-</div>
+
 
 
 
