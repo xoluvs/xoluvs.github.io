@@ -1,4 +1,4 @@
-<h1 align="center"> Please pardon my mess. This site is in the early stages of construction!</h1>
+<h1 align="center"> Please pardon my mess. This site is always under construction!</h1>
 
 <div align="right">
     <a href = "https://xoluvs.github.io/homePage">Home</a>
