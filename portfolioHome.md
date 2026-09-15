@@ -20,40 +20,39 @@
     </div>
 
 
-<h2> Training Examples</h2>
+<h2> Just a few examples</h2>
 
 <div align="left">
- <a href = "https://xoluvs.github.io/D9-Simulations">  
- <img src="assets/images/softwareDesign.png" alt="Simulation Examples" width="100" height="100" align="center"> </a> 
-  D9 Simulators are simplified replicas of a device or platform. These can be useful for technical training. <br> 
-</div>
-
-<div align="left">
- <a href = "https://xoluvs.github.io/KVRYPackwood">  
- <img src="assets/images/softwareDesign.png" alt="Simulation Examples" width="100" height="100" align="center"> </a> 
-  KVRY Packwood - Launching remote desktop demo <br> 
-</div>
+ <a href = "https://xoluvs.github.io/D9-Simulations">  Simplified Simulator example
+</a> 
+ <br> D9 Simulators are simplified replicas of a device or platform. These can be useful for technical training. <br> 
 
 
+
+ <br><a href = "https://xoluvs.github.io/KVRYPackwood">KVRY Packwood - Launching remote desktop demo 
+</a> 
+<br> This was a quick update to help other members log into our remote client for a new radio station I worked to start up, and continue to manage. 
+
+<a href = "https://xoluvs.github.io/analysis"> Design document examples
+ </a> 
+  <br> A few design documents I have worked on as I continue working on my Computer Science degree. <br>
+<br>
+
+<h3>Gamification and Storyline use</h3>
+ <a href = "https://xoluvs.github.io/PIC-Map/Flea%20Market%20MapBeta-web/index.html"> Event Map 
+</a> 
+<br> I used Storyline to create an interactive and searchable map for vendors during a bi-yearly event.  This was then embedded in a website and QR codes posted at the event and online for attendee access.  <br>
 
 
 <br>
-
-<h4>Coming Soon </h4>
-<div align="left">
- <a href = "https://xoluvs.github.io/analysis">  
- <img src="assets/images/data.png" alt="ADDIE process examples" width="100" height="100" align="center"> </a> 
-  Using a proper design model is critical throughout training design and developement. View some of my examples here.    
-</div>
-
-<div align="left">
-  <img src="assets/images/justForFun.png" alt="Just for fun proijects" width="100" height="100" align="center">  
-  View a few examples highlighting gamification elements that can be used with any training.    
+<h3>Come back soon! <br>
+I have many more examples I have just have not had time to add here yet. Please check back often for more examples.  
+</h3>
 </div>
 
 
-<br>
-
-<h4 align="left"> Notes:</h4>
-
+<br><br><br>
+<div>
+Note:
 Some of the graphics and icons used to build this site can be found on <a href="https://storyset.com/work"> Storyset.com </a>.
+</div>
