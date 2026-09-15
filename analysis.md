@@ -29,7 +29,7 @@ As of September 2026, I am continuing my learning at Southern New Hampshire Univ
     Project Presentation Example 2     
  </a>  </p>
    
- <p><a href = "https://xoluvs.github.io/Project%20software%20design%20example%20230.htm">  
+ <p><a href = "https://xoluvs.github.io/Project%20software%20design%20example%20230.pdf">  
     Software Design Example 1
  </a>  </p>
 
